@@ -14,7 +14,7 @@ This is a simple yet addictive Hangman game where you guess letters to complete 
 - Netlify
 - Git
 
-🔗 **GitHub Repository**: [Hangman Game GitHub](https://github.com/Manuelhhinojosa/hangmanApp)  
+
 🌐 **Live Demo**: [Hangman Game](https://hangmanmhh.netlify.app)
 
 Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
